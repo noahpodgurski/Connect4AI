@@ -14,3 +14,5 @@ Due to the nature of the game, we can have up to [1.0 * 10^20 possible states](h
 
 # Consensus
 Adding fitnesses based on blocking and getting 3 in a row and 2 in a row (rather than just wins and losses) might aid the network in improving faster.
+
+![](images/sample.PNG)
